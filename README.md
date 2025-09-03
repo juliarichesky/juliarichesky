@@ -34,13 +34,13 @@ i live in Brazil and i'm currently a first-semester student of systems analysis 
 
 <br>
 
-<a href="https://github.com/juliarichesky" title="Julia's profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarichesky&theme=dracula&show_icons=true" />
-</a>
+<div style="display: flex; justify-content: center;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=juliarichesky&show_icons=true&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarichesky&layout=compact&theme=radical"/>
+</div>
 
 ## 💌 contact
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliarichesky/)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliarichesky/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliavaleriogs@gmail.com)
-
