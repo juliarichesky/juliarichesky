@@ -34,9 +34,11 @@ i live in Brazil and i'm currently a first-semester student of systems analysis 
 
 <br>
 
-<div style="display: flex; justify-content: center;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=juliarichesky&show_icons=true&theme=radical" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarichesky&layout=compact&theme=radical"/>
+<div align="left">
+  <a href="https://github.com/juliarichesky">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarichesky&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarichesky&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  </a>
 </div>
 
 ## 💌 contact
